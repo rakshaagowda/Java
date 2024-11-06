@@ -37,7 +37,7 @@ class Recording {
     }
 }
 
-public class Temperature {
+public class temperature {
     public static void main(String[] args) {
         int totalCity = 5;
         int totalDay = 6;
