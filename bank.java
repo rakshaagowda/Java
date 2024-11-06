@@ -64,7 +64,7 @@ class Bankdetails{
     }
 }
 
-public class Main{
+public class bank{
     public static void main(String args[]){
         Scanner in = new Scanner(System.in);
         System.out.print("Enter no. of customers : ");
@@ -126,6 +126,6 @@ public class Main{
                 default : System.out.println("Invalid choice");
                           break;
             }
-        }while(ch != 0):
+        }while(ch != 0);
  }
 }
