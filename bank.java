@@ -127,5 +127,6 @@ public class bank{
                           break;
             }
         }while(ch != 0);
+        in.close();
  }
 }
