@@ -21,14 +21,14 @@ class Bookdetail{
     quantity=in.nextInt();
     total=quantity*up;
 
-
+    in.close();
   }
 
   void display(){
      
       System.out.println(Name+"\t\t"+code+"\t\t"+up+"\t\t\t"+quantity+"\t\t"+total+"\t");
   }
-
+  
 
 }
 class Book{
