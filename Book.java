@@ -47,6 +47,7 @@ class Book{
       System.out.println("details of book ("+(i+1)+"): ");
       book[i].display();
     }
+    in.close();
 
   }
 }
