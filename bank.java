@@ -16,7 +16,7 @@
 
 // Bank function
 import java.util.*;
-import java.util.Scanner;
+//import java.util.Scanner;
 class Bankdetails{
     String name;
     String acc_type;
