@@ -92,6 +92,7 @@ public class StackImplementation{
             
         }
     }while(choice!=0);
+    in.close();    
 
   }
 }
