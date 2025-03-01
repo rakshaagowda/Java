@@ -1,5 +1,5 @@
 class Pyramid{
-   synchronizedvoid draw_py(char ch){
+   synchronized void draw_py(char ch){
     for(int i=0;i<10;i+=2){
       for(int k=10-i;k>0;k-=2){
         System.out.print(" ");
