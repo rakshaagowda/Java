@@ -31,7 +31,7 @@ class B extends Thread{
   }
 }
 
-class Synchronized{
+class Synchtest{
   public static void main(String[] args){
 
     Pyramid obj = new Pyramid();
