@@ -1,4 +1,4 @@
-
+//java prrogram demonstrate the use of access modifiers
 
 class Test{
   public int publicvar=10;
