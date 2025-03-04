@@ -1,4 +1,4 @@
-//java prrogram demonstrate the use of access modifiers
+//java prrogram demonstrate the use of access modifiers ensuring data privacy
 
 class Test{
   public int publicvar=10;
