@@ -1,4 +1,4 @@
-//java program
+//java program to calculate area of circle and rectangle
 import java.util.*;
 class calculate{
   void area(int r){
