@@ -1,4 +1,4 @@
-//java program to calculate area of circle and rectangle
+//java program to calculate area of circle and rectangle demonstrating overloading
 import java.util.*;
 class calculate{
   void area(int r){
