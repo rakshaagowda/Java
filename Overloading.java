@@ -1,4 +1,4 @@
-
+//java program
 import java.util.*;
 class calculate{
   void area(int r){
