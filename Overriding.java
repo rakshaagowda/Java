@@ -1,4 +1,4 @@
-
+//Java program
 class Parent{
   void method1(){
     System.out.println("Parent class method");
