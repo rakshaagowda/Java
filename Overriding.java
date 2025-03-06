@@ -1,4 +1,4 @@
-//Java program
+//Java program to demonstrate the concept of overriding
 class Parent{
   void method1(){
     System.out.println("Parent class method");
