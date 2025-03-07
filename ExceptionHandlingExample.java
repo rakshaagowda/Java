@@ -9,6 +9,8 @@ public class ExceptionHandlingExample {
             // ArithmeticException (Divide by zero)
             System.out.print("Enter numerator: ");
             int num = scanner.nextInt();
+
+            
             System.out.print("Enter denominator: ");
             int denom = scanner.nextInt();
             int result = num / denom; // May throw ArithmeticException
