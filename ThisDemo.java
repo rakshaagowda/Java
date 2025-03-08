@@ -1,4 +1,4 @@
-//java program
+//java program to demonstrate this keyword
 class Demo{
   int a=5;
   void show(int a){
