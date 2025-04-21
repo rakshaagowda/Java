@@ -1,3 +1,4 @@
+//Bank function
 import java.util.*;
 class Account{
   private String Name;
