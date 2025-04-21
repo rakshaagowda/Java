@@ -1,5 +1,5 @@
 import java.util.*;
-//java program to implement bank functions using abstract class
+//java program to implement bank functions using abstract class and inheritance 
 abstract class Bank{
   char bankType;
   double amt,interest;
