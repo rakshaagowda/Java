@@ -16,7 +16,7 @@ public class ExceptionHandlingExample {
             int result = num / denom; // May throw ArithmeticException
             System.out.println("Result: " + result);
 
-            // NumberFormatException
+            
             System.out.print("Enter a number as a string: ");
             String str = scanner.next();
             int parsedNum = Integer.parseInt(str); // May throw NumberFormatException
