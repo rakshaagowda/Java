@@ -1,3 +1,4 @@
+//java program to create a class to store the details of a book
 import java.util.*;
 class Election{
   int spoilt=0,total=0;
