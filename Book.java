@@ -1,4 +1,5 @@
 import java.util.*;
+//java program to create a class to store the details of a book
 class Bookdetail{
   String Name="";
   int code;
