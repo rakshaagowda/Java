@@ -3,7 +3,7 @@ import java.util.*;
 class Election{
   int spoilt=0,total=0;
   void countingmachine(int[] count){
-    
+    //from util package
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter candidate no to cast ur vote: \nor 0 to stop voting");
     int vote=sc.nextInt();
