@@ -30,6 +30,7 @@ class Election{
     System.out.println("exiting \n thank you\n");
     
   }
+  //closing scanner class object
   sc.close();
   }
   void display(int[] count){
