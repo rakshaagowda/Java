@@ -35,7 +35,7 @@ public class ExceptionHandlingExample {
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Error: Array index out of bounds.");
         } finally {
-            scanner.close();
+            scanner.close();//scanner class object closed
             System.out.println("Program execution completed.");
         }
     }
