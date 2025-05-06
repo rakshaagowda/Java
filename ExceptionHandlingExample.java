@@ -8,7 +8,7 @@ public class ExceptionHandlingExample {
         try {
             // ArithmeticException (Divide by zero)
             System.out.print("Enter numerator: ");
-            int num = scanner.nextInt();
+            int num = scanner.nextInt();//scanner class ovject created
 
             
             System.out.print("Enter denominator: ");
