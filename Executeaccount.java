@@ -1,4 +1,4 @@
-//Bank function
+//program to implement bank functions using abstract class and inheritance
 import java.util.*;
 class Account{
   private String Name;
