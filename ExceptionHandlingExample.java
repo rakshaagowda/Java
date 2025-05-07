@@ -1,4 +1,4 @@
-// java program to handle different types of exceptions
+// java program to handle different types of exceptions and thier handling
 import java.util.Scanner;
 
 public class ExceptionHandlingExample {
