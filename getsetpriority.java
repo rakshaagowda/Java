@@ -1,4 +1,4 @@
-
+//program to get and set thread priority
 class Mythread extends Thread{
   public void run(){
     System.out.println("thread Name "+Thread.currentThread().getName());
