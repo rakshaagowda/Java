@@ -14,7 +14,7 @@ class Employee{
   }
 
 
-
+//main function class
 
 class Increasesalaray{
   public static void main(String args[]){
