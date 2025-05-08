@@ -1,4 +1,4 @@
-//java program to increase the salary of employee based on their type
+//java program to increase the salary of employee based on their type employee type
 class Employee{
   double salary=50000;
   void increment(String type){
