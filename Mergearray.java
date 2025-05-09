@@ -31,7 +31,7 @@ class Mergearray{
     Arrays.sort(arr);
     return arr;
   }
-
+//function to display array
   void display(int[] arr){
     System.out.println("array elements are: ");
     for(int i=0;i<arr.length;i++){
