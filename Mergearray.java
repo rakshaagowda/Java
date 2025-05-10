@@ -5,7 +5,7 @@ class Mergearray{
   int[] array1;
   int[] array2;
   Mergearray(){
-
+//empty constructor
   }
   Mergearray(int[] a,int[] b){
     array1=a;
