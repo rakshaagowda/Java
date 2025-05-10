@@ -21,7 +21,8 @@ class Increasesalaray{
     Employee e=new Employee();
     e.increment("Fulltime");
     System.out.println(e.salary); 
-      Employee e1=new Employee(); 
+      Employee e1=new Employee();
+      //objects method
     e1.increment("Intern");    
     System.out.println(e1.salary);
   }
