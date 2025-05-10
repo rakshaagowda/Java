@@ -7,6 +7,7 @@ class Mergearray{
   Mergearray(){
 //empty constructor
   }
+  //pverloaded constructor
   Mergearray(int[] a,int[] b){
     array1=a;
     array2=b;
