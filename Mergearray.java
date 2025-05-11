@@ -16,7 +16,7 @@ class Mergearray{
     //merge array
     int alen=array1.length;
     int blen=array2.length;
-
+//array
     int[] c= new int[alen+blen];
     int i;
     for(i=0;i<alen;i++){
