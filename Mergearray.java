@@ -13,6 +13,7 @@ class Mergearray{
     array2=b;
   }
   int[] merge(){
+    //merge array
     int alen=array1.length;
     int blen=array2.length;
 
